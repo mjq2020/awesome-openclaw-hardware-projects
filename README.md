@@ -26,7 +26,7 @@ This repository aggregates projects, skills, and tutorials that bring OpenClaw i
 
 Running OpenClaw natively on single-board computers.
 
-- [nanobot](https://github.com/baorepo/nanobot) - Lightweight agent for SBCs.
+- [nanobot](https://github.com/HKUDS/nanobot) - ultra-lightweight personal AI assistant inspired by OpenClaw.
 - [Seeed's SBC Benchmark for OpenClaw](01-single-board-computers/seeed-sbc-benchmark-en.md) - A comprehensive benchmark of Seeed's single-board computers running OpenClaw, including performance metrics and hardware recommendations.
 
 </details>
@@ -36,9 +36,9 @@ Running OpenClaw natively on single-board computers.
 
 Lightweight embedded implementations for MCU platforms, and hardware boards proved to run OpenClaw or agent-like workloads.
 
-- [mimiclaw](https://github.com/memovai/mimiclaw) - OpenClaw on ESP32-S3 — $5 hardware, pure C, no OS.
-- [espclaw](todo) - ESP32-based OpenClaw implementation with MQTT channel and more native tools. @wangtianrui
-- [mimiclaw on XIAO ESP32-S3](todo) - mimiclaw ported to Seeed Studio XIAO ESP32S3.
+- [mimiclaw](https://github.com/memovai/mimiclaw) - Pocket AI Assistant on a $5 Chip.
+- [espclaw](02-microcontrollers/espclaw.md) - ESP32-based OpenClaw implementation with MQTT channel and more native tools. @wangtianrui
+- [mimiclaw on XIAO ESP32-S3](02-microcontrollers/mimiclaw-on-xiao-esp32s3.md) - mimiclaw ported to Seeed Studio XIAO ESP32S3.
 </details>
 
 <details open>
@@ -46,7 +46,7 @@ Lightweight embedded implementations for MCU platforms, and hardware boards prov
 
 OpenClaw driven by local LLM backends on edge devices.
 
-- [nanobot + reComputer RK + Local LLM](todo) - todo. @jiahao
+- [nanobot + reComputer RK + Local LLM](03-local-llm/nanobot-recomputer-rk-local-llm.md) - todo. @jiahao
 
 
 </details>
@@ -56,7 +56,7 @@ OpenClaw driven by local LLM backends on edge devices.
 
 Add voice input/output capabilities to OpenClaw agents.
 
-- [MimiClaw x reSpeaker](todo) - Voice-enabled AI assistant with reSpeaker (XVF3800) + ESP32S3.
+- [MimiClaw x reSpeaker](04-voice-audio/mimiclaw-x-respeaker.md) - Voice-enabled AI assistant with reSpeaker (XVF3800) + ESP32S3.
 </details>
 
 <details open>
@@ -64,10 +64,10 @@ Add voice input/output capabilities to OpenClaw agents.
 
 Computer vision, AI cameras, and visual perception systems.
 
-- [reCamera Intellisense](todo) - Agent-friendly CLI/SDK for reCamera v2 with multi-camera support.
-- [openclaw with reCamera Gimbal](todo) - todo. @wuxinrui
-- [openclaw with SenseCap Watcher](todo) - todo. @jerry
-- [Control reCamera v2 with OpenClaw](todo) - todo. @daqing
+- [reCamera Intellisense](05-vision-cameras/recamera-intellisense.md) - Agent-friendly CLI/SDK for reCamera v2 with multi-camera support.
+- [openclaw with reCamera Gimbal](05-vision-cameras/openclaw-recamera-gimbal.md) - todo. @wuxinrui
+- [openclaw with SenseCap Watcher](05-vision-cameras/openclaw-sensecap-watcher.md) - todo. @jerry
+- [Control reCamera v2 with OpenClaw](05-vision-cameras/control-recamera-v2.md) - todo. @daqing
 </details>
 
 <details open>
@@ -75,7 +75,7 @@ Computer vision, AI cameras, and visual perception systems.
 
 OpenClaw interact with smart home protocols, and IoT devices.
 
-- [nanobot + reComputer RK + Local LLM](todo) - todo @jiahao
+- [nanobot + reComputer RK + Local LLM](06-home-automation-iot/nanobot-recomputer-rk-iot.md) - todo @jiahao
 
 </details>
 
@@ -84,8 +84,8 @@ OpenClaw interact with smart home protocols, and IoT devices.
 
 Motor control, robot arms, and physical agent systems.
 
-- [Control SOArm 101 with OpenClaw](todo) - OpenClaw controlling SOArm 101 robotic arm with Nvidia Jetson.
-- [Reachy Mini](todo) - todo. @suhe
+- [Control SOArm 101 with OpenClaw](07-robotics/control-soarm101.md) - OpenClaw controlling SOArm 101 robotic arm with Nvidia Jetson.
+- [Reachy Mini](07-robotics/reachy-mini.md) - todo. @suhe
 
 </details>
 
@@ -94,7 +94,7 @@ Motor control, robot arms, and physical agent systems.
 
 E-ink screens, LCD displays, and HMI devices.
 
-- [OpenClaw with e-ink Displays](todo) - Give e-ink displays the most powerful content generation engine - OpenClaw.
+- [OpenClaw with e-ink Displays](08-displays-hmi/openclaw-eink-displays.md) - Give e-ink displays the most powerful content generation engine - OpenClaw.
 
 </details>
 
@@ -103,7 +103,7 @@ E-ink screens, LCD displays, and HMI devices.
 
 OpenClaw communication with the physical world through wireless protocols.
 
-- [MeshClaw](todo) - Meshtastic integration for off-grid AI communication.
+- [MeshClaw](09-wireless-communication/meshclaw.md) - Meshtastic integration for off-grid AI communication.
 
 </details>
 
