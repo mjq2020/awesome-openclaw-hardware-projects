@@ -131,9 +131,10 @@ Contributions welcome! Please read our [contributing guidelines](./CONTRIBUTING.
 
 ---
 
-## Stargazers
+## Star History
 
-[![Stargazers over time](https://starcharts.vercel.app/seeed-projects.svg)](https://github.com/seeed-projects/awesome-openclaw-hardware-projects/stargazers)
+[![Star History Chart](https://api.star-history.com/svg?repos=seeed-projects/awesome-openclaw-hardware-projects&type=Date)](https://star-history.com/#seeed-projects/awesome-openclaw-hardware-projects&Date)
+
 
 ---
 
