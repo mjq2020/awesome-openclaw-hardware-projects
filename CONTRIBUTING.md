@@ -16,7 +16,7 @@ Thank you for your interest in contributing!
 1. **Verify your submission** — Only submit projects you've tested and confirmed work
 2. **Include description** — Clear explanation of what the project does
 3. **Categorize properly** — Place in the most relevant category
-4. **Link to official sources** — Docs, GitHub repos, etc.
+4. **Link to official sources** — Docs, GitHub repos, etc. If you need a landing page aggregating skills/videos/docs for your project, you can create a markdown file in the relevant category and link to it from the README.
 
 ### Format
 

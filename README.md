@@ -119,7 +119,7 @@ Contributions welcome! Please read our [contributing guidelines](./CONTRIBUTING.
 - Add only projects you've verified work
 - Include clear descriptions
 - Categorize appropriately
-- Link to official docs/github repository when available
+- Link to official docs/github repository when available, if you need a landing page aggregating skills/videos/docs for your project, you can create a markdown file in the relevant category and link to it from the README.
 
 ---
 
@@ -131,9 +131,10 @@ Contributions welcome! Please read our [contributing guidelines](./CONTRIBUTING.
 
 ---
 
-## Stargazers
+## Star History
 
-[![Stargazers over time](https://starcharts.vercel.app/seeed-projects.svg)](https://github.com/seeed-projects/awesome-openclaw-hardware-projects/stargazers)
+[![Star History Chart](https://api.star-history.com/svg?repos=seeed-projects/awesome-openclaw-hardware-projects&type=Date)](https://star-history.com/#seeed-projects/awesome-openclaw-hardware-projects&Date)
+
 
 ---
 
