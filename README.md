@@ -43,7 +43,7 @@ Lightweight embedded implementations for MCU platforms, and hardware boards prov
 | Project Name | Related Hardware | Description |
 |---|---|---|
 | [mimiclaw](https://github.com/memovai/mimiclaw) | • [XIAO ESP32S3](https://wiki.seeedstudio.com/xiao_esp32s3_getting_started/) | Pocket AI Assistant on a $5 Chip. |
-| [espclaw](02-microcontrollers/espclaw.md) | • [XIAO ESP32C3](https://wiki.seeedstudio.com/XIAO_ESP32C3_Getting_Started/)<br>• [XIAO ESP32S3](https://wiki.seeedstudio.com/xiao_esp32s3_getting_started/) | ESP32-based OpenClaw implementation with MQTT channel and more native tools. @wangtianrui |
+| [espclaw](02-microcontrollers/espclaw.md) | • [XIAO ESP32C3](https://wiki.seeedstudio.com/XIAO_ESP32C3_Getting_Started/)<br>• [XIAO ESP32S3](https://wiki.seeedstudio.com/xiao_esp32s3_getting_started/) | ESP32-based OpenClaw implementation with MQTT channel and more native tools. |
 | [mimiclaw on XIAO ESP32-S3](https://github.com/luoluoter/mimiclaw) | • [XIAO ESP32S3](https://wiki.seeedstudio.com/xiao_esp32s3_getting_started/) | mimiclaw ported to Seeed Studio XIAO ESP32S3. |
 
 </details>
@@ -104,7 +104,7 @@ Motor control, robot arms, and physical agent systems.
 | Project Name | Related Hardware | Description |
 |---|---|---|
 | [Control SOArm 101 with OpenClaw](07-robotics/control-soarm101.md) | • [SO-ARM101](https://wiki.seeedstudio.com/lerobot_so100m_new/)<br>• [reComputer J Series (Jetson)](https://wiki.seeedstudio.com/reComputer_Jetson_Series_Introduction/) | OpenClaw controlling SOArm 101 robotic arm with Nvidia Jetson. |
-| [Reachy Mini](07-robotics/reachy-mini.md) | — | todo. @suhe |
+| [Reachy Mini](07-robotics/reachy-mini.md) | • [Reachy Mini](https://huggingface.co/reachy-mini) | A cute desktop claw — sub-second pure local voice AI desktop assistant |
 
 </details>
 
